@@ -1,3 +1,4 @@
 a = 25
 b = 2
-print ("c=",a*b)
+c=  a*b
+print ("d=",a*b+c)
